@@ -29,7 +29,7 @@ def objects(image,objectlist = []):
                 count = 0
                 while (result):
                     print("image saved"+str(count+1))
-                    file = r"C:\Users\aiman\Downloads\Manb_life\FYP project\evidence\image"+str(count+1)+".jpg"
+                    file = r"C:\image"+str(count+1)+".jpg"
                     cv2.imwrite(file,image)
                     count = count +1
                     if count == 3:
