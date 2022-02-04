@@ -30,3 +30,6 @@ A more advance version of the https://github.com/ManB-crypto/SimpleObjectDetect
 
 
 ![Screenshot 2022-02-04 204140](https://user-images.githubusercontent.com/80488842/152530932-764261f1-441d-4f2d-8510-15976dfeee37.png)
+
+### Credits
+* Murtaza's Workshop - Robotics and AI "Video link: https://www.youtube.com/watch?v=Vg9rrOFmwHo&t=989s" for the object detection
